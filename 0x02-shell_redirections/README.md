@@ -1,0 +1,1 @@
+shell scripting on redirections
